@@ -1,8 +1,8 @@
 # Hi, I'm Haruka 👋
 
 🌱 Currently learning: **GitHub Skills**
-- ✅ Introduction to GitHub
-- ✅ Communicate using Markdown
+- ✅ [Introduction to GitHub](https://github.com/HattoriHaruka/skills-introduction-to-github)
+- ✅ [Communicate using Markdown](https://github.com/HattoriHaruka/skills-communicate-using-markdown)
 
 🛠️ Interests:
 - Open Source
